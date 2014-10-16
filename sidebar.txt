@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[are:home|Door43 (are)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-are|d43-are repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-are/archive/master.zip|d43-are.zip]]
+
+**Recent Changes**
+{{changes>ns = are}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/are|Ethnologue data]]
+
